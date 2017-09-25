@@ -1,1 +1,1 @@
-This is a Machine learning repository which includes all the courses that I have done in Machine learning and deep learning
+This is a Machine learning repository which includes assignments of all the courses that I have done in Machine learning and deep learning
